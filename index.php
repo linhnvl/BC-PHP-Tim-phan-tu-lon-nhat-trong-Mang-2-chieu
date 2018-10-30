@@ -8,10 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-<form method="post">
-    <input type="text" name="array" placeholder="input array">
-    <input type="submit" value="Find Max">
-</form>
 <?php
 
     $a = [
